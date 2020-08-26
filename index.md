@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1>Suramar Surivors Loot Guide</h1>
-        <p>In order to clarify which classes and specs should roll need on raid gear, we have compiled a list of items and selected which specs should receive each item.</p>
-        <a href=https://classic.wowhead.com/item=21220/head-of-ossirian-the-unscarred>Head of Ossirian the Unscarred</a>
+        <p>In order to clarify which classes and specs should roll need on raid gear, we have compiled a list of items and selected which specs should receive each item. Click a link below to select an instance.</p>
+        <a href="mc.md">Molten Core</a>
     </body>
 </html>
