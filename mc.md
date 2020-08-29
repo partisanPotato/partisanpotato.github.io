@@ -6,8 +6,8 @@
     </head>
     <body>
         <h1>Molten Core Loot Guide</h1>
-        <p><a href="https://classic.wowhead.com/item-set=205/cenarion-raiment">Cenarion Raiment</a> - </p>
-        <p><a href=""></a> - </p>
+        <p><a href="https://classic.wowhead.com/item-set=205/cenarion-raiment">Cenarion Raiment</a> - druid healer</p>
+        <p><a href="https://classic.wowhead.com/item-set=206/giantstalker-armor">Giantstalker Armor</a> - </p>
         <p><a href=""></a> - </p>
         <p><a href=""></a> - </p>
         <p><a href=""></a> - </p>
